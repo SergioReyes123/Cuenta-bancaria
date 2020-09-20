@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author ralvarado
+ * @author sergio reyes
  */
 public class opcionesBancarias {
     

@@ -7,7 +7,7 @@ package cuenta_bancaria;
 import javax.swing.JOptionPane;
 /**
  *
- * @author Romario
+ * @author sergio reyes
  */
 public class transacciones {
     int opc;
